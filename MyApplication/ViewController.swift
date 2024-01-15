@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  MyApplication
-//
-//  Created by Bema on 15/1/24.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
